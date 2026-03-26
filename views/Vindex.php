@@ -215,7 +215,7 @@
             <div class="row">
                 <div class="col-sm-12" style="text-align: center">
                     <label style="color: #C0392B">
-                        <strong>Release 1.0.23.0.5</strong>
+                        <strong>Release 1.0.24.0.0</strong>
                     </label>
                 </div>
             </div>
